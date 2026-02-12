@@ -1,0 +1,3 @@
+"git clone: Clona um reposit¢rio remoto para o computador local." 
+"git add: Adiciona altera‡oes de arquivos …  rea de stage para commit." 
+"git commit: Registra as altera‡oes adicionadas na branch local com uma mensagem." 
